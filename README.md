@@ -16,5 +16,12 @@ This project uses **Specification-Driven Design**. All structural decisions, dat
 ### Option 1: Standard Python Setup
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone <GITHUB_REPO_URL>
    cd Project01
+
+## Future Improvements (Reflection)
+Given more time, the following enhancements would be made:
+- **User Authentication & Roles:** Implement distinct role-based access control and customized dashboards for Customers and Admins.
+- **Automated Email/SMS Notifications:** Integration to send real-time appointment confirmations and reminder alerts.
+- **RESTful API Services:** Expose endpoints using Django REST Framework (DRF) to enable mobile app integrations.
+- **Online Payment Gateway:** Integrate payment gateways to process upfront booking deposits.
